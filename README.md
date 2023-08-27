@@ -10,6 +10,6 @@
 5) index 0 sgould be an alphabet 
 6) email can have uppercase 
 
-#### To Do
+#### To Do for future 
 1) Check position of '.' and '@'.
 2) check position of '_'
